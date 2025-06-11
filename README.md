@@ -2,7 +2,7 @@
 
 A simple web-based Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**.
 
-## 🖼️ Demo
+## 🖼️ Screenshot
 
 ![Tic-Tac-Toe Screenshot](./Screenshot.png)
 
@@ -39,10 +39,6 @@ tic-tac-toe/
 └── README.md
 
 
-## 💡 How to Use
+## 🖼️ Live Demo
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
-   cd tic-tac-toe
-
+🚀 Play it here: [Tic-Tac-Toe Live Game](https://pravallika2580.github.io/Tic-Tac-Toe/)
